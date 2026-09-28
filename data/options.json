@@ -1,0 +1,51 @@
+{
+  "semigran45": {
+    "options": {
+      "acute_bronchitis": "Acute bronchitis",
+      "acute_conjunctivitis": "Acute conjunctivitis",
+      "acute_liver_failure": "Acute liver failure",
+      "acute_otitis_media": "Acute otitis media",
+      "acute_pharyngitis": "Acute pharyngitis",
+      "acute_sinusitis": "Acute sinusitis",
+      "allergic_rhinitis": "Allergic rhinitis",
+      "appendicitis": "Appendicitis",
+      "asthma": "Asthma",
+      "back_pain": "Back pain",
+      "bee_sting_without_anaphylaxis": "Bee sting without anaphylaxis",
+      "candidal_yeast_infection": "Candidal yeast infection",
+      "canker_sore": "Canker sore",
+      "cellulitis": "Cellulitis",
+      "constipation": "Constipation",
+      "copd_flare": "COPD flare",
+      "deep_vein_thrombosis": "Deep vein thrombosis",
+      "eczema": "Eczema",
+      "heart_attack": "Heart attack",
+      "hemolytic_uremic_syndrome": "Hemolytic uremic syndrome",
+      "influenza": "Influenza",
+      "kidney_stones": "Kidney stones",
+      "malaria": "Malaria",
+      "meningitis": "Meningitis",
+      "mononucleosis": "Mononucleosis",
+      "peptic_ulcer_disease": "Peptic ulcer disease",
+      "pneumonia": "Pneumonia",
+      "pulmonary_embolism": "Pulmonary embolism",
+      "rocky_mountain_spotted_fever": "Rocky Mountain spotted fever",
+      "salmonella": "Salmonella",
+      "shingles": "Shingles",
+      "stroke": "Stroke",
+      "stye": "Stye",
+      "tetanus": "Tetanus",
+      "urinary_tract_infection": "Urinary tract infection",
+      "vertigo": "Vertigo",
+      "viral_upper_respiratory_illness": "Viral upper respiratory illness",
+      "vomiting": "Vomiting"
+    },
+    "distractors": {
+      "presbyopia": "Presbyopia",
+      "male_pattern_hair_loss": "Male pattern hair loss",
+      "dental_caries": "Dental caries",
+      "ingrown_toenail": "Ingrown toenail",
+      "plantar_wart": "Plantar wart"
+    }
+  }
+}

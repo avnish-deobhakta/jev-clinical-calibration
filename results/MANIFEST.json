@@ -1,0 +1,32 @@
+{
+  "label": "analysis-v8",
+  "utc": "20260928T010341Z",
+  "version": "v8",
+  "code_sha256": {
+    "v5/clients.py": "16472190f65fd6ec55e2888b89c8daf9176768a90ac5c191e13ebfb8a79f49d0",
+    "v5/ddxplus_to_cases.py": "0a2c9072ec480fe52e3eef4f420fcc2f37a71372d252c84a442e34a922912c51",
+    "v6/plots.py": "b1b426a07e94fbb615d116c39ff0604d7aa2a9b9d0b8e4b9d0718efeebc35d1c",
+    "v7/run.py": "b1a46cc7b071d9603600bb2940079090f09ad11d50062599a9578c3aec87b798",
+    "v8/analyze.py": "74d9356d5865eb7ba7bc6c56e3b0ed0f036a072f1cefe2ba71b8e11a0ea60921"
+  },
+  "data_sha256": {
+    "data/OSF_REGISTRATION.md": "d7aaa05eb0a53e2386bc29861e73fb944a4b05e9b2793e91dd813c8d6354daa4",
+    "data/SIGNOFFS.md": "9a21c02f1e009bd5877010cf3f4035e47bf956a6c8b83d7f1445fbfcede7b940",
+    "data/cases.csv": "e4d316ab670ffc791cac3e728fe9858c4be931dc4fe911028141d1841daa45fd",
+    "data/ddxplus_cases.csv": "cf2c540158bcd61c0aaed55dab7bf04ddba8dd6f695685a30ea0ee83143428cf",
+    "data/ddxplus_options.json": "361f738600d696f3f39ad6e3e63190be5b16b7a3d470d13681d4fd5c72e7b536",
+    "data/options.json": "0eb227c39dc1fe1faf16c9f5b576f506b0fac05f1e832f3894f23112c33c933c",
+    "data/raw/2023.06.11.23291247v1.full.pdf": "cc0698e943055b50eeb5da56ccc936db2429f4fc8aa3e77636b63abaf16e6144",
+    "data/raw/bioengineering-2834802-supplementary.pdf": "e88c268e5f4817b693a9d75f80c7a36d4091338912445a7e17b0a349ce562484",
+    "data/raw/media-1.docx": "a85ae86483f804a61543c4ca9dcc40357280a02a58b4876f6e93ba46a324c694",
+    "data/raw/media-2.docx": "b692c74e1d1256506b93ea1e7848e288f86e4b4e9300935e16bebc1cdbc98e08",
+    "data/raw/semh025489.ww1.pdf": "852a311915cd6932d4d9aac7169efb10f31576fbaa9e4df78f9e3a8118d036a9",
+    "data/release_conditions.json": "56edf4682d8e86a4209fc3a33932e50ce03d1cc1fecc326c26d5ef8fa5c24890",
+    "data/release_evidences.json": "281c78b044ae60514e28ecc9052d08a8225dd3e2db3f00f8788b99c47b05e0c0",
+    "data/release_test_patients.csv": "f7ac3eae934c85780fc9b109a6cac5771540619a02690bee6fc0ab402baec186",
+    "data/vague.csv": "b5f3c8b381ae0bc096c4aba1c09a1f6bca70ed89d9b218a58c7a7036c10c2cf8",
+    "data/zandi_cases.csv": "22bb6796ac88acfed0d32466472a8033cb9242a7b63cdd6f3cf7445b7165aa13",
+    "data/zandi_options.json": "427bdd00517104ad3e8932d7efeb37f5287a41c1783ba7d0dadc73150fb81a95"
+  },
+  "results_sha256": "72a54a3a5721b0e5b3b58c4ad4218b23e16a49b73db0110dc7d060b322432df8"
+}

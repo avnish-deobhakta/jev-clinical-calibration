@@ -1,0 +1,81 @@
+case_id,dataset,text,true_dx,paraphrase_1,paraphrase_2,paraphrase_3,distractors,triage_gold,descriptors,pair_id,subspecialty,source
+zd01_d3,zandi80,"My eye is painful, and I see a lot of halos.",acute_angle_closure_glaucoma,,,,,same_day,3,zd01,anterior_segment,Zandi 2024 Tables S1-S4
+zd01_d5,zandi80,I had a dilated eye exam earlier today and now my eye is painful and I am noticing a lot of halos.,acute_angle_closure_glaucoma,,,,,same_day,5,zd01,anterior_segment,Zandi 2024 Tables S1-S4
+zd02_d3,zandi80,My eye is very painful and red.,corneal_ulcer,,,,,same_day,3,zd02,anterior_segment,Zandi 2024 Tables S1-S4
+zd02_d5,zandi80,I fell asleep with my contact lenses and now my eye is very painful and red.,corneal_ulcer,,,,,same_day,5,zd02,anterior_segment,Zandi 2024 Tables S1-S4
+zd03_d3,zandi80,My right eye is painful and tearing.,chemical_injury,,,,,same_day,3,zd03,anterior_segment,Zandi 2024 Tables S1-S4
+zd03_d5,zandi80,I accidentally splashed some bleach in my right eye and now it is painful and tearing.,chemical_injury,,,,,same_day,5,zd03,anterior_segment,Zandi 2024 Tables S1-S4
+zd04_d3,zandi80,I had pain in my right eye that resolved in a few hours.,recurrent_corneal_erosion,,,,,non_urgent,3,zd04,anterior_segment,Zandi 2024 Tables S1-S4
+zd04_d5,zandi80,I woke up with pain in my right eye that resolved in a few hours. This has happened many times in the past.,recurrent_corneal_erosion,,,,,non_urgent,5,zd04,anterior_segment,Zandi 2024 Tables S1-S4
+zd05_d3,zandi80,I have right eye pain and extreme light sensitivity.,anterior_uveitis,,,,,urgent,3,zd05,anterior_segment,Zandi 2024 Tables S1-S4
+zd05_d5,zandi80,"I have new right eye pain, extreme light sensitivity, and my joints have been hurting more than usual.",anterior_uveitis,,,,,urgent,5,zd05,anterior_segment,Zandi 2024 Tables S1-S4
+zd06_d3,zandi80,My right eye is light sensitive and a little blurred.,traumatic_iritis,,,,,urgent,3,zd06,anterior_segment,Zandi 2024 Tables S1-S4
+zd06_d5,zandi80,A ball hit me in the right eye a few days ago and I’ve been light sensitive and a little blurred.,traumatic_iritis,,,,,urgent,5,zd06,anterior_segment,Zandi 2024 Tables S1-S4
+zd07_d3,zandi80,I have blurred vision and glare after strenuous exercise.,iop_rise_pigment_dispersion,,,,,non_urgent,3,zd07,anterior_segment,Zandi 2024 Tables S1-S4
+zd07_d5,zandi80,I have been noticing blurred vision in both eyes and glare after strenuous exercise.,iop_rise_pigment_dispersion,,,,,non_urgent,5,zd07,anterior_segment,Zandi 2024 Tables S1-S4
+zd08_d3,zandi80,There is a red spot on my eye – it looks like it’s bleeding.,subconjunctival_hemorrhage,,,,,non_urgent,3,zd08,anterior_segment,Zandi 2024 Tables S1-S4
+zd08_d5,zandi80,I was coughing hard all day today and now there is a red spot on my eye – it looks like it’s bleeding.,subconjunctival_hemorrhage,,,,,non_urgent,5,zd08,anterior_segment,Zandi 2024 Tables S1-S4
+zd09_d3,zandi80,The vision in the eye I had cataract surgery 1 year ago is blurry.,posterior_capsular_opacification,,,,,non_urgent,3,zd09,anterior_segment,Zandi 2024 Tables S1-S4
+zd09_d5,zandi80,I had cataract surgery one year ago and my vision was pretty good after that. Now the vision in that eye is blurry again.,posterior_capsular_opacification,,,,,non_urgent,5,zd09,anterior_segment,Zandi 2024 Tables S1-S4
+zd10_d3,zandi80,My eye pressure was a little higher than normal in both eyes. My vision is fine.,glaucoma_suspect_ocular_hypertension,,,,,non_urgent,3,zd10,anterior_segment,Zandi 2024 Tables S1-S4
+zd10_d5,zandi80,"I was at an eye screening event, and they told me my eye pressure was a little higher than normal in both eyes. My vision is fine and I don’t feel anything wrong.",glaucoma_suspect_ocular_hypertension,,,,,non_urgent,5,zd10,anterior_segment,Zandi 2024 Tables S1-S4
+zd11_d3,zandi80,"My neck is very painful, and my eye is a little droopy.",horner_carotid_dissection,,,,,same_day,3,zd11,neuro,Zandi 2024 Tables S1-S4
+zd11_d5,zandi80,"I just had a session with my chiropractor and now my neck is very painful, and my eye is a little droopy.",horner_carotid_dissection,,,,,same_day,5,zd11,neuro,Zandi 2024 Tables S1-S4
+zd12_d3,zandi80,I just lost vision in my left eye.,giant_cell_arteritis,,,,,same_day,3,zd12,neuro,Zandi 2024 Tables S1-S4
+zd12_d5,zandi80,"I have been losing weight, have been experiencing scalp tenderness, and now I lost vision in my left eye.",giant_cell_arteritis,,,,,same_day,5,zd12,neuro,Zandi 2024 Tables S1-S4
+zd13_d3,zandi80,I’m unable to read or see things on the right side of my vision. It seems like both eyes are affected.,occipital_stroke,,,,,same_day,3,zd13,neuro,Zandi 2024 Tables S1-S4
+zd13_d5,zandi80,I woke up this morning and I’m unable to read or see things on the right side of my vision. It seems like both eyes are affected. Everything was fine yesterday.,occipital_stroke,,,,,same_day,5,zd13,neuro,Zandi 2024 Tables S1-S4
+zd14_d3,zandi80,The vision in my right eye appears washed out and I have some pain.,optic_neuritis,,,,,urgent,3,zd14,neuro,Zandi 2024 Tables S1-S4
+zd14_d5,zandi80,The vision in my right eye has seemed washed out over the last few days. I’m also having some pain with eye movements in that eye.,optic_neuritis,,,,,urgent,5,zd14,neuro,Zandi 2024 Tables S1-S4
+zd15_d3,zandi80,My right eyelid droops and gets worse as the day goes on.,ocular_myasthenia_gravis,,,,,urgent,3,zd15,neuro,Zandi 2024 Tables S1-S4
+zd15_d5,zandi80,I have been noticing my right eyelid drooping. It gets worse as the day goes on and I also notice double vision.,ocular_myasthenia_gravis,,,,,urgent,5,zd15,neuro,Zandi 2024 Tables S1-S4
+zd16_d3,zandi80,I have double vision all the time. The double vision goes away when I close an eye.,trochlear_nerve_palsy,,,,,urgent,3,zd16,neuro,Zandi 2024 Tables S1-S4
+zd16_d5,zandi80,I recently hit my head on a cabinet and now I’m noticing double vision all the time. The double vision goes away when I close an eye.,trochlear_nerve_palsy,,,,,urgent,5,zd16,neuro,Zandi 2024 Tables S1-S4
+zd17_d3,zandi80,My right eye is suddenly really droopy.,oculomotor_nerve_palsy,,,,,same_day,3,zd17,neuro,Zandi 2024 Tables S1-S4
+zd17_d5,zandi80,My right eye is suddenly really droopy and it seems like my eyes don’t work together. I’m having double vision as well.,oculomotor_nerve_palsy,,,,,same_day,5,zd17,neuro,Zandi 2024 Tables S1-S4
+zd18_d3,zandi80,I saw a shimmering static light for about 15 minutes and then had a headache.,migraine_with_aura,,,,,non_urgent,3,zd18,neuro,Zandi 2024 Tables S1-S4
+zd18_d5,zandi80,I saw a shimmering static light for about 15 minutes and then had a headache. I’m 30 years old and I’ve never had this before.,migraine_with_aura,,,,,non_urgent,5,zd18,neuro,Zandi 2024 Tables S1-S4
+zd19_d3,zandi80,My right eyelid has been twitching.,orbicularis_myokymia,,,,,non_urgent,3,zd19,neuro,Zandi 2024 Tables S1-S4
+zd19_d5,zandi80,My right eyelid has been twitching off and on for several days.,orbicularis_myokymia,,,,,non_urgent,5,zd19,neuro,Zandi 2024 Tables S1-S4
+zd20_d3,zandi80,My optic nerve has a unique appearance to it and there are “little deposits”.,optic_disk_drusen,,,,,non_urgent,3,zd20,neuro,Zandi 2024 Tables S1-S4
+zd20_d5,zandi80,My eye doctor recently told me my right optic nerve has a unique appearance to it and that there are “little deposits”.,optic_disk_drusen,,,,,non_urgent,5,zd20,neuro,Zandi 2024 Tables S1-S4
+zd21_d3,zandi80,I took a picture and in the photo one pupil was very white.,leukocoria_retinoblastoma,,,,,urgent,3,zd21,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd21_d5,zandi80,I took a picture of my infant and in the photo one pupil was very white and one pupil looked normal.,leukocoria_retinoblastoma,,,,,urgent,5,zd21,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd22_d3,zandi80,My 12-year-old son has double vision and nausea when he tries to look around.,muscle_entrapment_orbital_fracture,,,,,same_day,3,zd22,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd22_d5,zandi80,My 12-year-old son fell on his face and now has double vision and nausea when he tries to look around.,muscle_entrapment_orbital_fracture,,,,,same_day,5,zd22,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd23_d3,zandi80,My child’s eye is swollen.,preseptal_cellulitis,,,,,urgent,3,zd23,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd23_d5,zandi80,My toddler had a bug bite near her eye a few days ago and now it’s swollen.,preseptal_cellulitis,,,,,urgent,5,zd23,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd24_d3,zandi80,My eyes bulge out of my face and they feel irritated.,thyroid_eye_disease,,,,,non_urgent,3,zd24,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd24_d5,zandi80,"My eyes have recently started to bulge out of my face, and they feel irritated and sensitive.",thyroid_eye_disease,,,,,non_urgent,5,zd24,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd25_d3,zandi80,My 3-year-old’s eyes cross.,strabismus,,,,,non_urgent,3,zd25,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd25_d5,zandi80,My 3-year-old’s eyes sometimes cross. She doesn’t seem to be able to control it.,strabismus,,,,,non_urgent,5,zd25,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd26_d3,zandi80,I have a bump on my right eyelid that is growing.,eyelid_bcc_scc,,,,,urgent,3,zd26,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd26_d5,zandi80,I have a bump on my right eyelid that is growing and sometimes bleeds. It’s also making me lose my eyelashes.,eyelid_bcc_scc,,,,,urgent,5,zd26,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd27_d3,zandi80,My toddler has a bump by her eye.,dacryocystitis,,,,,urgent,3,zd27,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd27_d5,zandi80,My toddler has a painful bump under the corner of her right eye by her nose.,dacryocystitis,,,,,urgent,5,zd27,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd28_d3,zandi80,My 6-month-old’s right eye tears up.,nasolacrimal_duct_obstruction,,,,,non_urgent,3,zd28,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd28_d5,zandi80,My 6-month-old’s right eye always tears up and has crusty lashes.,nasolacrimal_duct_obstruction,,,,,non_urgent,5,zd28,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd29_d3,zandi80,My right eyelid has been droopy.,aponeurotic_ptosis,,,,,non_urgent,3,zd29,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd29_d5,zandi80,I had cataract surgery and my right eyelid has been droopy ever since. It hasn’t gotten better or worse.,aponeurotic_ptosis,,,,,non_urgent,5,zd29,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd30_d3,zandi80,"My eyes itch, and I get flakes in my lashes.",blepharitis,,,,,non_urgent,3,zd30,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd30_d5,zandi80,"My eyes itch and I get flakes in my lashes, but my vision is good. This has been going on for months.",blepharitis,,,,,non_urgent,5,zd30,peds_oculoplastics,Zandi 2024 Tables S1-S4
+zd31_d3,zandi80,"My eye is very painful, and my vision is very blurry.",endophthalmitis,,,,,same_day,3,zd31,retina,Zandi 2024 Tables S1-S4
+zd31_d5,zandi80,"I recently had an eyeball injection, and now my eye is very painful and my vision is very blurry.",endophthalmitis,,,,,same_day,5,zd31,retina,Zandi 2024 Tables S1-S4
+zd32_d3,zandi80,"I see dots, bright lights, and noticed a shade coming into my vision.",retinal_detachment,,,,,same_day,3,zd32,retina,Zandi 2024 Tables S1-S4
+zd32_d5,zandi80,In the last day I started seeing dots and bright lights in my right eye. I also noticed a shade coming into my vision.,retinal_detachment,,,,,same_day,5,zd32,retina,Zandi 2024 Tables S1-S4
+zd33_d3,zandi80,The vision became really dark but then improved over about 30 minutes and my vision returned to normal.,amaurosis_fugax,,,,,same_day,3,zd33,retina,Zandi 2024 Tables S1-S4
+zd33_d5,zandi80,"The vision in my right eye became really dark, but then it gradually improved over about 30 minutes and my vision returned to normal.",amaurosis_fugax,,,,,same_day,5,zd33,retina,Zandi 2024 Tables S1-S4
+zd34_d3,zandi80,Straight lines appear wavy and things are more blurry in my right eye.,cnv_wet_amd,,,,,urgent,3,zd34,retina,Zandi 2024 Tables S1-S4
+zd34_d5,zandi80,I have macular degeneration and have recently noticed that straight lines have become wavy and things are more blurry in my right eye.,cnv_wet_amd,,,,,urgent,5,zd34,retina,Zandi 2024 Tables S1-S4
+zd35_d3,zandi80,I just started seeing a lot of red dots in my right eye.,vitreous_hemorrhage_pdr,,,,,urgent,3,zd35,retina,Zandi 2024 Tables S1-S4
+zd35_d5,zandi80,I have diabetes and just started seeing a lot of red dots in my right eye. It is making it difficult to see through.,vitreous_hemorrhage_pdr,,,,,urgent,5,zd35,retina,Zandi 2024 Tables S1-S4
+zd36_d3,zandi80,I see flashing lights in my vision and a new cobweb-like thing in my right eye.,acute_pvd,,,,,urgent,3,zd36,retina,Zandi 2024 Tables S1-S4
+zd36_d5,zandi80,I just started noticing flashing lights in my vision and see a new cobweb-like thing in my right eye. I keep thinking it’s a fruit fly.,acute_pvd,,,,,urgent,5,zd36,retina,Zandi 2024 Tables S1-S4
+zd37_d3,zandi80,I have a new smudge in the center of my right vision.,central_serous_chorioretinopathy,,,,,urgent,3,zd37,retina,Zandi 2024 Tables S1-S4
+zd37_d5,zandi80,I have a new smudge and distortion in the center of my right vision. I have also been very stressed at work.,central_serous_chorioretinopathy,,,,,urgent,5,zd37,retina,Zandi 2024 Tables S1-S4
+zd38_d3,zandi80,I see a horizontal line halfway in my vision that bobs with my head.,gas_bubble,,,,,non_urgent,3,zd38,retina,Zandi 2024 Tables S1-S4
+zd38_d5,zandi80,I had a retinal detachment surgery a few weeks ago. I’m now noticing a horizontal line halfway in my vision that bobs with my head.,gas_bubble,,,,,non_urgent,5,zd38,retina,Zandi 2024 Tables S1-S4
+zd39_d3,zandi80,I sometimes see a floater in my right eye.,floaters,,,,,non_urgent,3,zd39,retina,Zandi 2024 Tables S1-S4
+zd39_d5,zandi80,I had an episode of flashes and floaters in my right eye years ago that has resolved. I sometimes still see a floater.,floaters,,,,,non_urgent,5,zd39,retina,Zandi 2024 Tables S1-S4
+zd40_d3,zandi80,"I had an injection in my eye, and it feels like something is in my eye.",post_injection_irritation,,,,,non_urgent,3,zd40,retina,Zandi 2024 Tables S1-S4
+zd40_d5,zandi80,I had an injection in my eye today and my eye has felt scratchy. It feels like something is in my eye.,post_injection_irritation,,,,,non_urgent,5,zd40,retina,Zandi 2024 Tables S1-S4

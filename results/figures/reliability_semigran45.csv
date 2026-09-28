@@ -1,0 +1,17 @@
+model,bin,n,mean_confidence,accuracy
+jev,0.5-0.6,4,0.5189,0.75
+jev,0.6-0.7,4,0.665,0.5
+jev,0.7-0.8,2,0.76,0.5
+jev,0.8-0.9,5,0.852,0.8
+jev,0.9-1.0,30,0.9973,0.9333
+opus5_nothink,0.4-0.5,2,0.4732,0.5
+opus5_nothink,0.6-0.7,4,0.64,0.5
+opus5_nothink,0.7-0.8,5,0.7418,0.8
+opus5_nothink,0.8-0.9,10,0.8471,0.9
+opus5_nothink,0.9-1.0,24,0.9535,1.0
+opus_verbalized,0.4-0.5,5,0.4557,0.8
+opus_verbalized,0.5-0.6,8,0.554,0.75
+opus_verbalized,0.6-0.7,2,0.6128,1.0
+opus_verbalized,0.7-0.8,3,0.7777,1.0
+opus_verbalized,0.8-0.9,9,0.862,1.0
+opus_verbalized,0.9-1.0,18,0.9457,1.0

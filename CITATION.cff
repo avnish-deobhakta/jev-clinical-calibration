@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the study."
+title: "Do Calibrated-Probability Claims Hold Up in Clinical Diagnosis? A Pre-registered Evaluation of a Decision Model Against Frontier Language Models"
+authors:
+  - family-names: Deobhakta
+    given-names: Avnish
+    affiliation: "Icahn School of Medicine at Mount Sinai"
+date-released: 2026-09-28
+license: MIT
+identifiers:
+  - type: url
+    value: "https://osf.io/c8w9k"
+    description: "Pre-registration"
