@@ -2,7 +2,7 @@
 
 Code, data and results for **"Do Calibrated-Probability Claims Hold Up in Clinical Diagnosis? A Pre-registered Evaluation of a Decision Model Against Frontier Language Models"** (Deobhakta, 2026; preprint link to be added).
 
-The study compares Jev 1.13 (TypeSafe AI), a single-pass decision model that returns a probability for every option, with Claude Opus 5.5 (adaptive reasoning, always on) and Claude Opus 5 (reasoning disabled) on three diagnostic case sets. Pre-registration: [osf.io/c8w9k](https://osf.io/c8w9k) (27 September 2026).
+The study compares Jev 1.13 (TypeSafe AI), a single-pass decision model that returns a probability for every option, with Claude Opus 5.5 (adaptive reasoning, always on) and Claude Opus 5 (reasoning disabled) on three diagnostic case sets. Pre-registration: [osf.io/fpmg3](https://osf.io/fpmg3) (26 September 2026, before the first study model call).
 
 ## Main results
 
@@ -57,7 +57,7 @@ To rerun model calls, set `OPENROUTER_API_KEY` (Jev) and `ANTHROPIC_API_KEY` (Cl
 
 ## Disclosures
 
-The harness, analysis code and a first draft of the manuscript were written with assistance from Claude (Anthropic), a model family that is also a comparator in this study. The analysis plan was pre-registered before data collection, and every deviation is listed in the manuscript and in the version `CHANGES.md` files. The author is CEO of Avant Sciences, Inc., which has no financial relationship with TypeSafe AI, OpenRouter or Anthropic.
+The harness, analysis code and a first draft of the manuscript were written with assistance from Claude (Anthropic), a model family that is also a comparator in this study. The analysis plan was pre-registered before data collection, and every deviation is listed in the manuscript and in the version `CHANGES.md` files. The author is CEO of Avant Sciences, Inc., a medical device company with no financial relationship with TypeSafe AI, OpenRouter or Anthropic.
 
 ## Citation
 
